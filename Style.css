@@ -1,6 +1,8 @@
 body{
     font-family: 'Inter', sans-serif;
-    font-weight: 200;
+    font-weight: 50;
+    font-style: normal;
+    font: 600;
     line-height: 1.8;
     color: black;
 }
