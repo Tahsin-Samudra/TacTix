@@ -5,4 +5,43 @@ body{
     font: 600;
     line-height: 1.8;
     color: black;
+    background-color: lemonchiffon;
+}
+
+#heading {
+    background-color: palevioletred;    
+    color : white
+}
+
+
+#subHeading {
+    background-color: violet;
+    color : beige;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+#subHeading1 {
+    background-color: skyblue;
+    color : white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+#subHeading2 {
+    background-color: lightgreen;
+    color : white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+#Black {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    display: inline-block;
 }
